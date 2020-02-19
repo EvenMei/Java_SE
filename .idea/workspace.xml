@@ -16,17 +16,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/reflect_field/src/com/meiyukai/domain/GenericClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="46" column="89" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582104827944</updated>
-      <workItem from="1582104829237" duration="5101000" />
+      <workItem from="1582104829237" duration="5365000" />
     </task>
     <task id="LOCAL-00001" summary="Java_SE 基础学习">
       <created>1582105150757</created>
@@ -132,11 +122,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582105150757</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java_SE 基础学习 add 反射">
+      <created>1582118050999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582118051000</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5101000" />
+    <option name="totallyTimeSpent" value="5365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -173,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'master' of https://github.com/EvenMei/Java_SE&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
     <MESSAGE value="Java_SE 基础学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java_SE 基础学习" />
+    <MESSAGE value="Java_SE 基础学习 add 反射" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java_SE 基础学习 add 反射" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
