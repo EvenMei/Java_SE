@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="784837d0-44eb-48bc-a684-52a0c04ae2ea" name="Default Changelist" comment="">
+    <list default="true" id="784837d0-44eb-48bc-a684-52a0c04ae2ea" name="Default Changelist" comment="Java_SE 基础学习add hello world">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/HelloWorld.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Thread" beforeDir="false" afterPath="$PROJECT_DIR$/Thread" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reflect_field" beforeDir="false" afterPath="$PROJECT_DIR$/reflect_field" afterDir="false" />
     </list>
@@ -48,7 +56,7 @@
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -58,7 +66,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_SE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_SE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -113,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582104827944</updated>
-      <workItem from="1582104829237" duration="5365000" />
+      <workItem from="1582104829237" duration="5612000" />
     </task>
     <task id="LOCAL-00001" summary="Java_SE 基础学习">
       <created>1582105150757</created>
@@ -129,11 +147,25 @@
       <option name="project" value="LOCAL" />
       <updated>1582118051000</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java_SE 基础学习 delete 反射">
+      <created>1582118180780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582118180780</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Java_SE 基础学习add hello world">
+      <created>1582118316863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582118316863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5365000" />
+    <option name="totallyTimeSpent" value="5612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -171,7 +203,9 @@
     <MESSAGE value="Merge branch 'master' of https://github.com/EvenMei/Java_SE&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/modules.xml" />
     <MESSAGE value="Java_SE 基础学习" />
     <MESSAGE value="Java_SE 基础学习 add 反射" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java_SE 基础学习 add 反射" />
+    <MESSAGE value="Java_SE 基础学习 delete 反射" />
+    <MESSAGE value="Java_SE 基础学习add hello world" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java_SE 基础学习add hello world" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
